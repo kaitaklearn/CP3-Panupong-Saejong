@@ -1,0 +1,6 @@
+x = int(input("ตัวเลขจำนวนเต็ม"))
+y = int(input("ตัวเลขที่ต้องการนำมาคำนวณ"))
+print(x, "+", y, ":", x + y)
+print(x, "-", y, ":", x - y)
+print(x, "*", y, ":", x * y)
+print(x, "/", y, ":", x / y)
